@@ -5,6 +5,8 @@ xuchengEncrypt使用国密算法SM3、SM4对证书进行hash运算加解密，�
 
 e2e_standalone目录为本机运行Hyperledger Fabric1.1环境所需文件。chaincode文件夹下包含了学程链的身份链以及档案链的链码。
 
+Fileblockchain-application-using-springboot使用Hyperledger Java SDK来完成基于hyperledger 1.1的学程链档案链应用。
 
+blockchain-application-using-springboot使用Hyperledger Java SDK来完成基于hyperledger 1.1的学程链身份链链应用。
 
 
